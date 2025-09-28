@@ -388,7 +388,7 @@ int print_help()
             "\tChange persistent mouse settings.\n"
             "\n"
             "Available settings:\n"
-            " --set-debounce-time 4-16\n"
+            " --set-debounce-time 2-16\n"
             "\tChange click debounce time in milliseconds. Only use even numbers.\n"
             " --set-dpi DPI1,...\n"
             "\tUp to six DPIs can be configured.\n"
