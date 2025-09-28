@@ -18,7 +18,7 @@ for configuration, has a driver based on further development of this code.
             Change persistent mouse settings.
 
     Available settings:
-     --set-debounce-time 4-16
+     --set-debounce-time 2-16
             Change click debounce time in milliseconds. Only use even numbers.
      --set-dpi DPI1,...
             Up to six DPIs can be configured.
